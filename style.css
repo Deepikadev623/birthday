@@ -19,6 +19,7 @@ body {
   background-size: 500px;
   background-position: center center;
   padding: 20px 100px;
+  touch-action:none;
 /*  min-width: 800px; */
   
   transform: rotateZ(-5deg);
